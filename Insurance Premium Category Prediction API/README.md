@@ -1,3 +1,14 @@
+## 📸 Screenshots
+
+### Streamlit Prediction Result UI
+![UI](screenshots/ui.png)
+
+### FastAPI Swagger Docs
+![API Docs](screenshots/api_docs.png)
+
+
+---
+
 # 🚀 Insurance Premium Category Prediction API
 
 A Machine Learning powered web application that predicts **Insurance Premium Category** based on user demographics, lifestyle, and financial details.
